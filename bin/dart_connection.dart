@@ -11,7 +11,7 @@ void main() async {
   await menuLoop(session);
   print("----- Bye ---------");
 }
-dadasd
+๘๘๘๘๘๘๘๘๘๘๘๘๘๘๘๘๘๘
 class Session {
   final int userId;
   final String username;
